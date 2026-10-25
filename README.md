@@ -4,6 +4,16 @@ This project demonstrates an **energy-efficient home automation system** using A
 
 ---
 
+## 📊 Project Presentation
+
+[![Presentation cover](images/presentation_cover.png)](presentation/Smart_Light_System.pdf)
+
+- **[View slides (PDF)](presentation/Smart_Light_System.pdf)**: opens directly in the browser, no download needed
+- **[Download slides (PowerPoint)](presentation/Smart_Light_System.pptx)**: the original editable `.pptx`
+- **[Open the simulation in Tinkercad](https://www.tinkercad.com/things/g5ptMDFJVAt-smartlightsystem?sharecode=aZTbaR-3lCnF5cpNTkdhr6Dy5Y5cYMSzZXeX0nn-Wag)**
+
+---
+
 ## 📷 Project Overview
 
 - **Motion Detection:** Detects presence using a PIR sensor.
@@ -20,7 +30,7 @@ This project demonstrates an **energy-efficient home automation system** using A
 - Arduino UNO
 - PIR Motion Sensor
 - LDR (Light Dependent Resistor)
-- 10kΩ Resistor
+- 1kΩ Resistor
 - Relay Module (SPDT)
 - AC Bulb (230V)
 - Breadboard and jumper wires
@@ -30,7 +40,15 @@ This project demonstrates an **energy-efficient home automation system** using A
 
 ## ⚡ Circuit Diagram
 
-*(Include the wiring diagram image here or link to it)*
+### Breadboard Wiring (Tinkercad)
+
+![Circuit diagram](images/circuit_diagram.png)
+
+### Schematic
+
+![Schematic diagram](images/schematic.png)
+
+A full-resolution version of the schematic is available as a [PDF](images/schematic.pdf).
 
 ---
 
