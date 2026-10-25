@@ -4,6 +4,16 @@ This project demonstrates an **energy-efficient home automation system** using A
 
 ---
 
+## 📊 Project Presentation
+
+[![Presentation cover](images/presentation_cover.png)](presentation/Smart_Light_System.pdf)
+
+- **[View slides (PDF)](presentation/Smart_Light_System.pdf)**: opens directly in the browser, no download needed
+- **[Download slides (PowerPoint)](presentation/Smart_Light_System.pptx)**: the original editable `.pptx`
+- **[Open the simulation in Tinkercad](https://www.tinkercad.com/things/g5ptMDFJVAt-frantic-tumelo-gaaris)**
+
+---
+
 ## 📷 Project Overview
 
 - **Motion Detection:** Detects presence using a PIR sensor.
