@@ -30,7 +30,15 @@ This project demonstrates an **energy-efficient home automation system** using A
 
 ## ⚡ Circuit Diagram
 
-*(Include the wiring diagram image here or link to it)*
+### Breadboard Wiring (Tinkercad)
+
+![Circuit diagram](images/circuit_diagram.png)
+
+### Schematic
+
+![Schematic diagram](images/schematic.png)
+
+A full-resolution version of the schematic is available as a [PDF](images/schematic.pdf).
 
 ---
 
