@@ -20,7 +20,7 @@ This project demonstrates an **energy-efficient home automation system** using A
 - Arduino UNO
 - PIR Motion Sensor
 - LDR (Light Dependent Resistor)
-- 10kΩ Resistor
+- 1kΩ Resistor
 - Relay Module (SPDT)
 - AC Bulb (230V)
 - Breadboard and jumper wires
