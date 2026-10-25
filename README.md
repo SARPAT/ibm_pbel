@@ -10,7 +10,7 @@ This project demonstrates an **energy-efficient home automation system** using A
 
 - **[View slides (PDF)](presentation/Smart_Light_System.pdf)**: opens directly in the browser, no download needed
 - **[Download slides (PowerPoint)](presentation/Smart_Light_System.pptx)**: the original editable `.pptx`
-- **[Open the simulation in Tinkercad](https://www.tinkercad.com/things/g5ptMDFJVAt-frantic-tumelo-gaaris)**
+- **[Open the simulation in Tinkercad](https://www.tinkercad.com/things/g5ptMDFJVAt-smartlightsystem?sharecode=aZTbaR-3lCnF5cpNTkdhr6Dy5Y5cYMSzZXeX0nn-Wag)**
 
 ---
 
